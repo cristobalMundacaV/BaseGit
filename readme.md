@@ -1,9 +1,6 @@
-# Git Fundamentos
+## Creacion de Ramas en Git
 
-Repositorio creado para aprender los fundamentos de Git y GitHub.
+--Objetivo
 
-Incluye:
-- Inicialización de repositorios
-- Commits
-- Conexión con repositorios remotos
-- Push y control de versiones
+-Aprender para que se usan las ramas
+-Seguir aprendiendo sobre Control de Versiones
